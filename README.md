@@ -1,3 +1,2 @@
-# DiabetesApp
- Heath Tracker for Diabetic Patients
+# Heath Tracker Application for Diabetic Patients
 
